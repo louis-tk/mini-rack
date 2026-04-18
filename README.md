@@ -25,6 +25,6 @@ The other two holes at the rear line up with the mounting cut-outs on the router
 ### Printing notes
 The Mikrotik L009 and RB5009 series are designed to use the entire base as a heatsink and they will passively pass heat on to whatever they are mounted to. So I would suggest that you make sure to use a filament/3D print method which will hold up to being constantly warm.
 
-My version was printed using carbon fiber filament and an 8mm wall thickness. This wall thickness does a good job of ensuring strength in the material under the bolts/nuts whilst not wasting material on the face plate which carries no load. The carbon fiber filament is holding up well, its proven to be very strong supporting the router in the rack with very little flex.
+My version was printed using carbon fiber filament and an 8mm wall thickness. This wall thickness does a good job of ensuring strength in the material under the bolts/nuts whilst not wasting material on the face plate which carries no load. The carbon fiber filament is holding up well, its proven to be very strong, supporting the router in the rack with very little flex.
 
 If you want to access the original design to make your own version, you can access it on OnShape [here](https://cad.onshape.com/documents/3eef37720806aee14195c4ce/w/a88853328feb153d1102dc91/e/84ada9d315f747e53ca1347e).
