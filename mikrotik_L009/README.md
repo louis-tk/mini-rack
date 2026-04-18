@@ -20,7 +20,9 @@ The other two holes at the rear line up with the mounting cut-outs on the router
 
 <img src="./images/01.jpg" width="250">
 <img src="./images/02.jpg" width="250">
+
 <img src="./images/03.jpg" width="250">
+<img src="./images/04.jpg" width="250">
 
 ### Printing notes
 The Mikrotik L009 and RB5009 series are designed to use the entire base as a heatsink and they will passively pass heat on to whatever they are mounted to. So I would suggest that you make sure to use a filament/3D print method which will hold up to being constantly warm.
