@@ -18,11 +18,13 @@ This is intentded to be used with [35mm M4 bolts](https://www.amazon.co.uk/dp/B0
 
 The other two holes at the rear line up with the mounting cut-outs on the router base, these are sized for the 10-32 mounting screw (which come with GeeekPi's racks) to bite in to the plastic, it's meant to help stop the router sliding back and does not need to be cranked down too tight, and can likely be skipped as the clamps hold the router fairly firmly. These will likely need to be left out if you want to use the side power connection on the RB5009 routers.
 
-<img src="./images/01.jpg" width="250">
-<img src="./images/02.jpg" width="250">
+<img src="./images/01.jpg" width="300">
+<img src="./images/02.jpg" width="300">
 
-<img src="./images/03.jpg" width="250">
-<img src="./images/04.jpg" width="250">
+<img src="./images/03.jpg" width="300">
+<img src="./images/04.jpg" width="300">
+
+_Note: The power cable cut-out is incorrectly placed in these images and has been corrected in the STL._
 
 ### Printing notes
 The Mikrotik L009 and RB5009 series are designed to use the entire base as a heatsink and they will passively pass heat on to whatever they are mounted to. So I would suggest that you make sure to use a filament/3D print method which will hold up to being constantly warm.
