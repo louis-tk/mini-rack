@@ -16,7 +16,7 @@ This has not been test-fitted on the RB5009 routers, looking at the [dimensions 
 ### Mounting
 This is intentded to be used with [35mm M4 bolts](https://www.amazon.co.uk/dp/B0D8X6M9YT) with a max head diameter of 8mm. The bolts pass through all three mount arms and the router to clamp the router in place and spread the weight across the entire height of the face plate. The top recesses have clearance for a 7mm socket for tightening the nuts.
 
-The other two holes at the rear line up with the mounting cut-outs on the router base, these are sized for a standard 10-32 mounting screw to bite in to the plastic, it's meant to help stop the router sliding back and does not need to be cranked down too tight, and can likely be skipped as the clamps hold the router fairly firmly. These will likely need to be left out if you want to use the side power connection on the RB5009 routers.
+The other two holes at the rear line up with the mounting cut-outs on the router base, these are sized for the 10-32 mounting screw (which come with GeeekPi's racks) to bite in to the plastic, it's meant to help stop the router sliding back and does not need to be cranked down too tight, and can likely be skipped as the clamps hold the router fairly firmly. These will likely need to be left out if you want to use the side power connection on the RB5009 routers.
 
 <img src="./images/mikrotik_L009/01.jpg" width="250">
 <img src="./images/mikrotik_L009/02.jpg" width="250">
