@@ -1,4 +1,4 @@
-# [Mikrotik L009/RB5009 Router 10" Mount](./STLs/mikrotik_L009_10in.stl)
+# [Mikrotik L009/RB5009 Router 10" Mount](./STLs/mikrotik_L009_10in_1U.stl)
 
 ## Compatibility
 This mount was designed for and tested with the [Mikrotik L009UiGS-2HaxD-IN](https://mikrotik.com/product/l009uigs_2haxd_in), but should fit;
@@ -7,7 +7,7 @@ This mount was designed for and tested with the [Mikrotik L009UiGS-2HaxD-IN](htt
 - [RB5009UG+S+IN](https://mikrotik.com/product/rb5009ug_s_in)
 - [RB5009UPr+S+IN](https://mikrotik.com/product/rb5009upr_s_in)
 
-which all appear to share the same form factor. The base version of the mount has a cut-out for the power cable to pass through, there is a version [here](./STLs/mikrotik_L009_10in_no_cable_hole.stl) without the cut-out if the power cable is not needed (eg. if using PoE, or the side power plug on the RB5009 based routers).
+which all appear to share the same form factor. The base version of the mount has a cut-out for the power cable to pass through, there is a version [here](./STLs/mikrotik_L009_10in_1U_no_cable_hole.stl) without the cut-out if the power cable is not needed (eg. if using PoE, or the side power plug on the RB5009 based routers).
 
 This has not been test-fitted on the RB5009 routers, looking at the [dimensions datasheets](https://cdn.mikrotik.com/web-assets/product_files/RB5009INDimensions1_210954.pdf) it appears that the side power socket will be clear of the mounting arms, but probably worth taking some measurements with the power plug fitted and trial prints, and the rear screws may need to be left out (see below)
 
