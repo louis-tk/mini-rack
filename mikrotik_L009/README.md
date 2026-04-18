@@ -30,6 +30,7 @@ _Note: The power cable cut-out is incorrectly placed in these images and has bee
 The Mikrotik L009 and RB5009 series are designed to use the entire base as a heatsink and they will passively pass heat on to whatever they are mounted to. So I would suggest that you make sure to use a filament/3D print method which will hold up to being constantly warm.
 
 My version was printed using;
+- PLA-CF filament (carbon fiber)
 - 50% cubic infill
 - 8 wall loops
 - 2 skirt loops
