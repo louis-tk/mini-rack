@@ -34,6 +34,6 @@ My version was printed using;
 - 2 skirt loops
 - support enabled (for bolt holes)
 
-A decent wall thickness needed to ensure strength in the material under the bolts/nut heads, whilst not wasting material on the face plate which carries no load. The carbon fiber filament is holding up well, its proven to be very strong, supporting the router in the rack with very little flex.
+A decent wall thickness is needed to ensure strength in the material under the bolt heads and nuts, whilst not wasting material on the face plate which carries no load. The carbon fiber filament is holding up well, supporting the router in the rack with very little flex.
 
 If you want to access the original design to make your own version, you can access it on OnShape [here](https://cad.onshape.com/documents/3eef37720806aee14195c4ce/w/a88853328feb153d1102dc91/e/84ada9d315f747e53ca1347e).
